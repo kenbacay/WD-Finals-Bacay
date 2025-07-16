@@ -6,14 +6,15 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo123.avif" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">My Portfolio</h3>
+  <h3 align="center">My Personal Portfolio</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ Ken Ehlvert E. Bacay
+ <h4>TC05</h4>
 </div>
 
 <br />
@@ -59,20 +60,19 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This is my multi-page personal portfolio website. The main goal of this project is to showcase my skills, projects, education, and services in a clean, animated, and fully navigable web interface. This portfolio is built using HTML and CSS only, with a focus on layout structure, animation, responsive design, and creative visual presentation. Each page is linked using internal navigation to allow smooth user experience across all sections of the portfolio.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+
+
+
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Animations using CSS
+- Images & Icons Integration
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -119,4 +119,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Canva | To get an idea for my layout in creating this portfolio | https://www.canva.com/design/DAGtOaj-km8/Ne9wO21xCDd8WPHEUNKOLw/edit |
