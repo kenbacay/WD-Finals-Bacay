@@ -92,25 +92,53 @@ This is my multi-page personal portfolio website. The main goal of this project 
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Finals-Bacay
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+|      └─ fileWith.jpeg/.jpg/.webp/.png
 └─ pages
-|  └─ pageName
+|  └─ page 1
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
+|     |      └─ fileWith.jpeg/.jpg/.webp/.png
 |     └─ index.html
-└─ index.html
+└─ pages
+|  └─ page 2
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |      └─ fileWith.jpeg/.jpg/.webp/.png
+|     └─ index.html
+└─ pages
+|  └─ page 3
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |      └─ fileWith.jpeg/.jpg/.webp/.png
+|     └─ index.html
+└─ pages
+|  └─ page 4
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |      └─ fileWith.jpeg/.jpg/.webp/.png
+|     └─ index.html
+└─ pages
+|  └─ page 5
+|     └─ assets
+|     |  └─ css
+|     |  |  └─ style.css
+|     |  └─ img
+|     |      └─ fileWith.jpeg/.jpg/.webp/.png
+|     └─ index.html
+└─ index.html - Landing page
 └─ readme.md
 ```
 
@@ -120,3 +148,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Canva | To get an idea for my layout in creating this portfolio | https://www.canva.com/design/DAGtOaj-km8/Ne9wO21xCDd8WPHEUNKOLw/edit |
+|Logo|Here i can get my logo for my project| https://www.bing.com/images/search?view=detailV2&ccid=Tq2SVKtJ&id=2B79AA1DC14025052B95B0752A14D22DA1B1C848&thid=OIP.Tq2SVKtJ4D5o7ZtojE_v-gHaHa&mediaurl=https%3a%2f%2fimg.freepik.com%2fpremium-vector%2fkb-monogram-logo-design_633982-189.jpg%3fw%3d2000&exph=2000&expw=2000&q=kb+logo&simid=608023385773772886&FORM=IRPRST&ck=C520D2D5217A3C9158EC204445CBFBCE&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0 |
